@@ -12,7 +12,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "An iconic revolver favored by cops and criminals alike.\nChambered in a non-magnum cartridge, so it's easy to handle but not that powerful."
-SWEP.Description_Quote = "\"Who's 'we', sucka?\" \"Smith and Wesson, and me.\"" // Sudden Impact
+SWEP.Description_Quote = "\"Who's 'we', sucka?\" \"Smith and Wesson, and me.\"" -- Sudden Impact (1983)
 
 SWEP.Trivia_Caliber = ".38 Special"
 SWEP.Trivia_Manufacturer = "Smith & Wesson"

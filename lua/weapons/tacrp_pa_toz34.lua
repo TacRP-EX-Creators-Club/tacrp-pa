@@ -12,7 +12,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "5Shotgun"
 
 SWEP.Description = "Double-barrel hunting shotgun. Has decent accuracy and lethality, but its bulk and slow reload makes it ill-suited for combat."
-SWEP.Description_Quote = "\"A nu, chiki briki i v damki!\""
+SWEP.Description_Quote = "\"A nu, chiki briki i v damki!\"" -- S.T.A.L.K.E.R.: Shadow of Chernobyl (2007)
 
 SWEP.Trivia_Caliber = "12 Gauge"
 SWEP.Trivia_Manufacturer = "Tulsky Oruzheiny Zavod"

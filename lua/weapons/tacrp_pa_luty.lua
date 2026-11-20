@@ -11,7 +11,7 @@ SWEP.SubCatTier = "5Value"
 SWEP.SubCatType = "3Submachine Gun"
 
 SWEP.Description = "Homemade SMG made as protest against UK firearm regulations. The first few shots in a burst have increased firerate, compensating for the weapon's terrible accuracy."
-SWEP.Description_Quote = "\"Let us never succumb to the evil doctrine of the antigun movement.\"" // From P.A. Luty's book, Expedient Homemade Firearms. Guy was quite dramatic.
+SWEP.Description_Quote = "\"Let us never succumb to the evil doctrine of the antigun movement.\"" -- From P.A. Luty's book, Expedient Homemade Firearms. Guy was quite dramatic.
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "P.A. Luty"

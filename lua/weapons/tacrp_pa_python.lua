@@ -12,7 +12,7 @@ SWEP.SubCatTier = "1Elite"
 SWEP.SubCatType = "2Magnum Pistol"
 
 SWEP.Description = "Quality revolver with pinpoint precision and raw power.\nTo be wielded one-handed, cowboy style."
-SWEP.Description_Quote = "\"When you have to shoot, shoot. Don't talk.\""
+SWEP.Description_Quote = "\"When you have to shoot, shoot. Don't talk.\"" --The Good, the Bad and the Ugly (1966)
 
 SWEP.Trivia_Caliber = ".357 Magnum"
 SWEP.Trivia_Manufacturer = "Colt"

@@ -12,7 +12,7 @@ SWEP.SubCatTier = "5Value"
 SWEP.SubCatType = "6Marksman Rifle"
 
 SWEP.Description = "Mass production British bolt-action rifle with high capacity."
-SWEP.Description_Quote = "\"It was all so easy.\"" // T.E. Lawrence
+SWEP.Description_Quote = "\"It was all so easy.\"" -- T.E. Lawrence
 
 SWEP.Trivia_Caliber = ".303 British"
 SWEP.Trivia_Manufacturer = "Royal Small Arms Factory"

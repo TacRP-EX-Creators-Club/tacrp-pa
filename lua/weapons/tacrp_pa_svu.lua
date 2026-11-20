@@ -11,7 +11,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "6Marksman Rifle"
 
 SWEP.Description = "Bullpup modernized model of the SVD. Has good handling but average effective range.\nEquipped with a 6x scope by default."
-SWEP.Description_Quote = "\"It's all just about perpective.\"" // Black Ops 6
+SWEP.Description_Quote = "\"It's all just about perpective.\"" -- Black Ops 6 (2024)
 
 SWEP.Trivia_Caliber = "7.62x54mmR"
 SWEP.Trivia_Manufacturer = "KBP Instrument Design Bureau"

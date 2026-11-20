@@ -13,7 +13,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "6Launcher"
 
 SWEP.Description = "Wood stocked, long barrel grenade launcher from the jungles. Accurate and has fast muzzle velocity, but has considerable weight."
-SWEP.Description_Quote = "\"Goooooooooooooood morning, Vietnam!\""
+SWEP.Description_Quote = "\"Goooooooooooooood morning, Vietnam!\"" -- Good Morning, Vietnam (1987)
 
 SWEP.Trivia_Caliber = "40mm Grenades"
 SWEP.Trivia_Manufacturer = "Springfield Armory"

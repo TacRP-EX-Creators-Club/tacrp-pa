@@ -12,7 +12,7 @@ SWEP.SubCatTier = "2Operator"
 SWEP.SubCatType = "2Magnum Pistol"
 
 SWEP.Description = "Gunsmith-custom based on an iconic film weapon, featuring excellent handling and an integrated laser sight."
-SWEP.Description_Quote = "\"Quite an experience to live in fear, isn't it? That's what it is to be a slave.\"" // I dont need to tell you where this is from
+SWEP.Description_Quote = "\"Quite an experience to live in fear, isn't it? That's what it is to be a slave.\"" -- I dont need to tell you where this is from.
 
 SWEP.Trivia_Caliber = ".44 Special" // The Fallout homage to this gun uses 5.56, but the model clearly has magnum cartridges loaded.
 SWEP.Trivia_Manufacturer = "Steyr, Charter Arms"

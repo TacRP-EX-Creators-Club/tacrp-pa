@@ -12,7 +12,7 @@ SWEP.SubCatTier = "1Elite"
 SWEP.SubCatType = "7Sniper Rifle"
 
 SWEP.Description = "Robust magnum sniper with unmatched power and accuracy. A counter-terrorist favourite.\nEquipped with a 12x scope by default."
-SWEP.Description_Quote = "\"He's a madman, a scientist, and a sharpshooter.\"" // Nifty's 51 frags at IEM Sydney 2018
+SWEP.Description_Quote = "\"He's a madman, a scientist, and a sharpshooter.\"" -- Nifty's 51 frags at IEM Sydney 2018
 
 SWEP.Trivia_Caliber = ".338 Lapua Magnum"
 SWEP.Trivia_Manufacturer = "Accuracy International"

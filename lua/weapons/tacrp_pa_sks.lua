@@ -11,7 +11,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "5Battle Rifle"
 
 SWEP.Description = "Soviet semi-automatic rifle intended to complement the AK. A well-rounded medium range firearm."
-SWEP.Description_Quote = "\"Don't breathe.\"" // Mad Max: Fury Road, when Furiosa snipes Bullet Farmer's spotlight
+SWEP.Description_Quote = "\"Don't breathe.\"" -- Mad Max: Fury Road (2015), when Furiosa snipes Bullet Farmer's spotlight
 
 SWEP.Trivia_Caliber = "7.62x39mm"
 SWEP.Trivia_Manufacturer = "Tula Arsenal"

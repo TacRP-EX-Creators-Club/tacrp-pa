@@ -11,7 +11,7 @@ SWEP.SubCatTier = "5Value"
 SWEP.SubCatType = "3Submachine Gun"
 
 SWEP.Description = "Cost-effective Danish SMG with reliable firepower but awkward ergonomics. An optic cannot be mounted due to the top charging handle."
-SWEP.Description_Quote = "\"Do you renounce Satan... And all his works?\""
+SWEP.Description_Quote = "\"Do you renounce Satan... And all his works?\"" -- The Godfather (1972)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Dansk Industri Syndikat"
