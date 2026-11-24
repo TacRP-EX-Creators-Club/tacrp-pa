@@ -74,14 +74,14 @@ SWEP.Damage_Max = 15
 SWEP.Damage_Min = 9
 SWEP.Range_Min = 900
 SWEP.Range_Max = 3000
-SWEP.Penetration = 4
-SWEP.ArmorPenetration = 0.625
-SWEP.ArmorBonus = 0.5
+SWEP.Penetration = 2
+SWEP.ArmorPenetration = 0.325
+SWEP.ArmorBonus = 0.25
 
-SWEP.MuzzleVelocity = 32000
+SWEP.MuzzleVelocity = 19000
 
 SWEP.BodyDamageMultipliers = {
-    [HITGROUP_HEAD] = 4,
+    [HITGROUP_HEAD] = 2.5,
     [HITGROUP_CHEST] = 1,
     [HITGROUP_STOMACH] = 1,
     [HITGROUP_LEFTARM] = 1,
@@ -166,7 +166,7 @@ SWEP.HolsterAng = Angle(90, 0, 0)
 
 // reload
 
-SWEP.ClipSize = 12 // 10 irl but it should be slightly better than the Amphibian
+SWEP.ClipSize = 15 // 10 irl but it should be slightly better than the Amphibian
 SWEP.Ammo = "pistol"
 SWEP.Ammo_Expanded = "ti_pistol_light"
 
